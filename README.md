@@ -1,1 +1,1 @@
-# odin-recipes
+# Big ol' Book of Recipes (and some Carly Rae)
